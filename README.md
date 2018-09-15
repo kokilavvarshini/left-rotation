@@ -9,7 +9,7 @@ import random
 import re
 import sys
 
-# Complete the rotLeft function below.
+
 def rotLeft(a, d):
     for i in range(d):
         temp = a[0]
